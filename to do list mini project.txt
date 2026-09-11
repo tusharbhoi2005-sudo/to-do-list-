@@ -1,0 +1,22 @@
+to do list mini project : 
+
+1) add task 
+add task is a feature that is to add a task in the list of task 
+
+2) delete task 
+delete task is used to delete completed or non-completed task from the list of task 
+
+3) mark as complete
+mark as complete is used show the user which task are already completed 
+
+4) set priority of task 
+set priority is used to set the priority of the task in high, medium , low
+
+5) date to complete task
+it gives a date to complete the task 
+
+6) search tasks
+it is used to search the task that already exist
+
+7) theme set 
+it sets a theme between dark and white
